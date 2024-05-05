@@ -106,22 +106,15 @@ if(NUM_LOOPS>=10)    {
 	    break;
     }
     return 0;}
-
-
-
-## OUTPUT
-$ ./sem.o 
-
-
-$ ipcs
 ```
 
 ## OUTPUT:
-$ ./sem.o
-![image](https://github.com/Kesavasai20/Linux-IPC-Semaphores/assets/138849303/0e67eb17-cb21-43a1-8aba-d46f397cad7a)
-$ ipcs
-![image](https://github.com/Kesavasai20/Linux-IPC-Semaphores/assets/138849303/1047cd4c-7886-4c92-8df0-bba6c7e77879)
+## $ ./sem.o
 
+![image](https://github.com/Kesavasai20/Linux-IPC-Semaphores/assets/138849303/33dc3200-314e-4383-a6ad-4ead0c5e5d31)
+## $ ipcs
+
+![image](https://github.com/Kesavasai20/Linux-IPC-Semaphores/assets/138849303/1047cd4c-7886-4c92-8df0-bba6c7e77879)
 
 ## RESULT:
 The program is executed successfully.
